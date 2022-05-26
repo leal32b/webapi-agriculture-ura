@@ -1,0 +1,20 @@
+{
+  "name": "webapi-agriculture-ura",
+  "version": "1.0.0",
+  "description": "Agriculture URA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leal32b/webapi-agriculture-ura.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leal32b/webapi-agriculture-ura/issues"
+  },
+  "homepage": "https://github.com/leal32b/webapi-agriculture-ura#readme"
+}
