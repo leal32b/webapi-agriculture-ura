@@ -1,0 +1,8 @@
+# folders
+coverage
+data-postgres
+dist
+node_modules
+
+# files
+.env
