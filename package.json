@@ -4,6 +4,7 @@
   "description": "Agriculture URA",
   "main": "index.js",
   "scripts": {
+    "build": "rimraf dist && tsc -b tsconfig.build.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,6 +21,7 @@
   "devDependencies": {
     "@types/node": "^17.0.35",
     "git-commit-msg-linter": "^4.1.3",
+    "rimraf": "^3.0.2",
     "typescript": "^4.7.2"
   }
 }
